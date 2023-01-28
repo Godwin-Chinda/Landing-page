@@ -47,3 +47,19 @@ header button {
     margin-left: 3rem;
     border-radius: 5px;
 }
+
+#thank-you {
+    font-size: 35px;
+    margin: auto;
+    width: 50rem;
+    text-align: center;
+}
+
+#thank-you button {
+    display: flex;
+    margin: auto;
+    padding: 0.5rem 1.5rem;
+    font-weight: bold;
+    background-color: rgb(19, 38, 78);
+    color: white;
+}
